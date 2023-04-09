@@ -1,1 +1,4 @@
 #STEPS
+
+If i add a file from "git add ." command 
+git reset <filename> is get back from git add . command
